@@ -13,7 +13,7 @@ here admin can add or remove a house as vacant and occupied.
 
 ![Screenshot 2023-03-23 172833](https://user-images.githubusercontent.com/113454708/227200253-3b1df8fe-c952-4dc1-9d9c-c4dd2c891916.png)
 
-![Screenshot 2023-03-23 002310](https://user-images.githubusercontent.com/113454708/227018125-2cf3c574-90a7-4c58-b4f3-528dda81aad3.png)
+
 
 
 #Registration page if some user wants to sell property then can directly register with this following feature
