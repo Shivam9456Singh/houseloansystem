@@ -10,6 +10,9 @@
 .
 #login page admin can login to keep check on overall renting system.
 here admin can add or remove a house as vacant and occupied.
+
+![Screenshot 2023-03-23 172833](https://user-images.githubusercontent.com/113454708/227200253-3b1df8fe-c952-4dc1-9d9c-c4dd2c891916.png)
+
 ![Screenshot 2023-03-23 002310](https://user-images.githubusercontent.com/113454708/227018125-2cf3c574-90a7-4c58-b4f3-528dda81aad3.png)
 
 
@@ -28,3 +31,6 @@ here admin can add or remove a house as vacant and occupied.
 
 #property details as seen by admin and a normal user to get details from .
 ![Screenshot 2023-03-23 002448](https://user-images.githubusercontent.com/113454708/227018216-57c39c09-387e-4105-9cac-f893b0c0e3f3.png)
+
+
+![Screenshot 2023-03-23 004241](https://user-images.githubusercontent.com/113454708/227200192-91dc8690-ab24-430b-8ca2-2550571cd7ec.png)
