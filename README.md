@@ -20,9 +20,11 @@ here admin can add or remove a house as vacant and occupied.
 #Dashborad for a user and admin with giving details of rented , vacat , occupied and sold houses.
 ![Screenshot 2023-03-23 002321](https://user-images.githubusercontent.com/113454708/227018194-60d69fd0-11ba-4610-a079-9e6b3b32bda8.png)
 
-#here user can directly register the property with details and images of the property .
+#here user can directly register the Apartment Room property with details and images of the property .
 ![Screenshot 2023-03-23 002406](https://user-images.githubusercontent.com/113454708/227018198-5ddc6345-b670-4880-ab8a-77961bd9964c.png)
 
+#Registration of individual apartment property.
 ![shivam home page](https://user-images.githubusercontent.com/113454708/227018209-996c8be8-5c04-4e5e-abf0-fa90ef209791.png)
 
+#property details as seen by admin and a normal user to get details from .
 ![Screenshot 2023-03-23 002448](https://user-images.githubusercontent.com/113454708/227018216-57c39c09-387e-4105-9cac-f893b0c0e3f3.png)
