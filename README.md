@@ -1,22 +1,18 @@
-# house-renting-system
+# house-Loan-system
 
 #home page with login and register credentials .
 ![Screenshot 2023-03-23 002244](https://user-images.githubusercontent.com/113454708/227018098-f383d193-dc06-4812-8a09-b295b5e059bf.png)
 
-#login page admin can login to keep check on overall renting system.
+#login page admin can login to keep check on loans rented houses and vacant houses .
 #here admin can add or remove a house as vacant and occupied.
 ![Screenshot 2023-03-23 002254](https://user-images.githubusercontent.com/113454708/227018113-e606a4d6-230f-4b79-b0ef-605df3c9f2a7.png)
-
-.
-#login page admin can login to keep check on overall renting system.
-here admin can add or remove a house as vacant and occupied.
 
 ![Screenshot 2023-03-23 172833](https://user-images.githubusercontent.com/113454708/227200253-3b1df8fe-c952-4dc1-9d9c-c4dd2c891916.png)
 
 
 
 
-#Registration page if some user wants to sell property then can directly register with this following feature
+#Registration page if some user wants to sell or give on loan property then can directly register with this following feature
 ![Screenshot 2023-03-23 002431](https://user-images.githubusercontent.com/113454708/227018149-e3cba5db-b40c-46ae-b9c6-933483e83f01.png)
 
 
